@@ -1,0 +1,6 @@
+D:\Amrut\Learning\Learnings\Structural_FlyWeightPattern\bin\Debug\Structural_FlyWeightPattern.exe.config
+D:\Amrut\Learning\Learnings\Structural_FlyWeightPattern\bin\Debug\Structural_FlyWeightPattern.exe
+D:\Amrut\Learning\Learnings\Structural_FlyWeightPattern\bin\Debug\Structural_FlyWeightPattern.pdb
+D:\Amrut\Learning\Learnings\Structural_FlyWeightPattern\obj\Debug\Structural_FlyWeightPattern.csprojResolveAssemblyReference.cache
+D:\Amrut\Learning\Learnings\Structural_FlyWeightPattern\obj\Debug\Structural_FlyWeightPattern.exe
+D:\Amrut\Learning\Learnings\Structural_FlyWeightPattern\obj\Debug\Structural_FlyWeightPattern.pdb

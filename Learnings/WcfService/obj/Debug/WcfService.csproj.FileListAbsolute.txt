@@ -1,0 +1,17 @@
+E:\Amrut\Timken\Learning\Learnings\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+E:\Amrut\Timken\Learning\Learnings\WcfService\bin\WcfService.dll
+E:\Amrut\Timken\Learning\Learnings\WcfService\bin\WcfService.pdb
+E:\Amrut\Timken\Learning\Learnings\WcfService\obj\Debug\WcfService.dll
+E:\Amrut\Timken\Learning\Learnings\WcfService\obj\Debug\WcfService.pdb
+E:\Amrut\Learning\Learnings\WcfService\bin\WcfService.dll
+E:\Amrut\Learning\Learnings\WcfService\bin\WcfService.pdb
+E:\Amrut\Learning\Learnings\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+E:\Amrut\Learning\Learnings\WcfService\obj\Debug\WcfService.dll
+E:\Amrut\Learning\Learnings\WcfService\obj\Debug\WcfService.pdb
+E:\Amrut\Learning\Learnings\WcfService\bin\WcfService.dll.config
+D:\Amrut\Learning\Learnings\WcfService\bin\WcfService.dll.config
+D:\Amrut\Learning\Learnings\WcfService\bin\WcfService.dll
+D:\Amrut\Learning\Learnings\WcfService\bin\WcfService.pdb
+D:\Amrut\Learning\Learnings\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+D:\Amrut\Learning\Learnings\WcfService\obj\Debug\WcfService.dll
+D:\Amrut\Learning\Learnings\WcfService\obj\Debug\WcfService.pdb

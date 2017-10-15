@@ -1,0 +1,12 @@
+E:\Amrut\Learning\Algorithm.cs\obj\Debug\Algorithm.cs.csprojResolveAssemblyReference.cache
+E:\Amrut\Learning\Algorithm.cs\bin\Debug\Algorithm.cs.exe.config
+E:\Amrut\Learning\Algorithm.cs\bin\Debug\Algorithm.cs.exe
+E:\Amrut\Learning\Algorithm.cs\bin\Debug\Algorithm.cs.pdb
+E:\Amrut\Learning\Algorithm.cs\obj\Debug\Algorithm.cs.exe
+E:\Amrut\Learning\Algorithm.cs\obj\Debug\Algorithm.cs.pdb
+D:\Amrut\Learning\Algorithm.cs\bin\Debug\Algorithm.cs.exe.config
+D:\Amrut\Learning\Algorithm.cs\bin\Debug\Algorithm.cs.exe
+D:\Amrut\Learning\Algorithm.cs\bin\Debug\Algorithm.cs.pdb
+D:\Amrut\Learning\Algorithm.cs\obj\Debug\Algorithm.cs.csprojResolveAssemblyReference.cache
+D:\Amrut\Learning\Algorithm.cs\obj\Debug\Algorithm.cs.exe
+D:\Amrut\Learning\Algorithm.cs\obj\Debug\Algorithm.cs.pdb

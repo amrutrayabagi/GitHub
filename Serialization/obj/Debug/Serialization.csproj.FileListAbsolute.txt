@@ -1,0 +1,6 @@
+D:\Amrut\Learning\Serialization\bin\Debug\Serialization.exe.config
+D:\Amrut\Learning\Serialization\bin\Debug\Serialization.exe
+D:\Amrut\Learning\Serialization\bin\Debug\Serialization.pdb
+D:\Amrut\Learning\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+D:\Amrut\Learning\Serialization\obj\Debug\Serialization.exe
+D:\Amrut\Learning\Serialization\obj\Debug\Serialization.pdb

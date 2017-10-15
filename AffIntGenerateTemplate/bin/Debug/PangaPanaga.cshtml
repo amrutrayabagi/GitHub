@@ -1,0 +1,44 @@
+@{ ViewBag.Title = "Home Page";}
+<section class="main-container">
+    <div class="container">
+        <div class="row">
+            <div class="main col-md-12">
+                <h1 class="page-title text-center">Panga Panga Wooden Floor</h1>
+                <div class="separator with-icon"><i class="fa fa-shopping-bag bordered"></i></div>
+                <div class="row">
+                    <div class="col-md-4 col-lg-5">
+                        <ul class="nav nav-pills" role="tablist">
+                            <li class="active"><a href="#pill-1" role="tab" data-toggle="tab" title="images"><i class="fa fa-camera pr-5"></i> Photo</a></li>
+                        </ul>
+                        <div class="tab-content clear-style">
+                            <div class="tab-pane active" id="pill-1">
+                                <div class="owl-carousel content-slider-with-thumbs mb-20">
+                                    <div class="overlay-container overlay-visible">
+                                        <img src="~/images/WoodenFlooring/PangaPanaga.jpg" alt="">
+                                        <a href="~/images/WoodenFlooring/PangaPanaga.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
+                                    </div>
+                                </div>
+                                <div class="content-slider-thumbs-container">
+                                    <div class="owl-carousel content-slider-thumbs">
+                                        <div class="owl-nav-thumb">
+                                            <img src="~/images/WoodenFlooring/PangaPanaga.jpg" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- pills end -->
+                    </div>
+                    <div class="col-md-8 col-lg-7 pv-30">
+                        <h2>Description</h2>
+                        <p>Panga Panga wood flooring is suitable for all domestic and most commercial projects, and is a very unusual species that makes for a unique appearance.</p>
+                        <h4 class="space-top">Specifications</h4>
+                        <hr> @{Html.RenderPartial("_WallPaperSpecification");}
+                    </div>
+                </div>
+            </div>
+            <!-- main end -->
+        </div>
+    </div>
+</section>
+@{Html.RenderPartial("_BookAppointment");} @Html.Action("WoodenFlooringRelatedProducts", "Product", new { name = "PangaPanaga" })

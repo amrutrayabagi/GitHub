@@ -1,0 +1,6 @@
+D:\Amrut\Learning\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+D:\Amrut\Learning\AdapterPattern\bin\Debug\AdapterPattern.exe
+D:\Amrut\Learning\AdapterPattern\bin\Debug\AdapterPattern.pdb
+D:\Amrut\Learning\AdapterPattern\obj\Debug\Structural_AdapterPattern.csprojResolveAssemblyReference.cache
+D:\Amrut\Learning\AdapterPattern\obj\Debug\AdapterPattern.exe
+D:\Amrut\Learning\AdapterPattern\obj\Debug\AdapterPattern.pdb

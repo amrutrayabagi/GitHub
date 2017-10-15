@@ -1,0 +1,12 @@
+E:\Amrut\Learning\AffIntGenerateTemplate\bin\Debug\AffIntGenerateTemplate.exe.config
+E:\Amrut\Learning\AffIntGenerateTemplate\bin\Debug\AffIntGenerateTemplate.exe
+E:\Amrut\Learning\AffIntGenerateTemplate\bin\Debug\AffIntGenerateTemplate.pdb
+E:\Amrut\Learning\AffIntGenerateTemplate\obj\Debug\AffIntGenerateTemplate.csprojResolveAssemblyReference.cache
+E:\Amrut\Learning\AffIntGenerateTemplate\obj\Debug\AffIntGenerateTemplate.exe
+E:\Amrut\Learning\AffIntGenerateTemplate\obj\Debug\AffIntGenerateTemplate.pdb
+D:\Amrut\Learning\AffIntGenerateTemplate\bin\Debug\AffIntGenerateTemplate.exe.config
+D:\Amrut\Learning\AffIntGenerateTemplate\bin\Debug\AffIntGenerateTemplate.exe
+D:\Amrut\Learning\AffIntGenerateTemplate\bin\Debug\AffIntGenerateTemplate.pdb
+D:\Amrut\Learning\AffIntGenerateTemplate\obj\Debug\AffIntGenerateTemplate.csprojResolveAssemblyReference.cache
+D:\Amrut\Learning\AffIntGenerateTemplate\obj\Debug\AffIntGenerateTemplate.exe
+D:\Amrut\Learning\AffIntGenerateTemplate\obj\Debug\AffIntGenerateTemplate.pdb

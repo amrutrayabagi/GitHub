@@ -1,0 +1,6 @@
+D:\Amrut\Learning\CSharpNutShell\obj\Debug\CSharpNutShell.csprojResolveAssemblyReference.cache
+D:\Amrut\Learning\CSharpNutShell\bin\Debug\CSharpNutShell.exe.config
+D:\Amrut\Learning\CSharpNutShell\bin\Debug\CSharpNutShell.exe
+D:\Amrut\Learning\CSharpNutShell\bin\Debug\CSharpNutShell.pdb
+D:\Amrut\Learning\CSharpNutShell\obj\Debug\CSharpNutShell.exe
+D:\Amrut\Learning\CSharpNutShell\obj\Debug\CSharpNutShell.pdb

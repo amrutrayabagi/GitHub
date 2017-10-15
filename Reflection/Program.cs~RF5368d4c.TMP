@@ -1,0 +1,54 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Reflection
+{
+    class Program
+    {
+
+        //Delegate
+        delegate int IntFunc(int i);
+        static void Main(string[] args)
+        {
+
+            //Invoke CalculateSquare and Cube using delegate Normally
+            IntFunc i = DelegateProgram.CalcualteSquare;
+            Console.WriteLine(i(8));
+            i = DelegateProgram.CalcualteCube;
+            Console.WriteLine(i(8));
+
+
+
+
+            //Call the same using reflection concepts.
+            Delegate t = Delegate.CreateDelegate(typeof(IntFunc), typeof(DelegateProgram), "CalcualteSquare");
+            Console.WriteLine(t.DynamicInvoke(new object[] { 8 }));
+
+            Delegate t1 = Delegate.CreateDelegate(typeof(IntFunc), typeof(DelegateProgram), "CalcualteCube");
+            Console.WriteLine(t1.DynamicInvoke(new object[] { 8 }));
+
+            Console.Read();
+
+        }
+
+
+    }
+
+    public class DelegateProgram
+    {
+
+
+        public static int CalcualteSquare(int i)
+        {
+            return i * i;
+        }
+
+        public static int CalcualteCube(int i)
+        {
+            return i * i * i;
+        }
+    }
+}

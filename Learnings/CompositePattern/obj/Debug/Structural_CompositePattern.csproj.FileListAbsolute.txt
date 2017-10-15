@@ -1,0 +1,4 @@
+D:\Amrut\Learning\Learnings\CompositePattern\bin\Debug\CompositePattern.exe
+D:\Amrut\Learning\Learnings\CompositePattern\bin\Debug\CompositePattern.pdb
+D:\Amrut\Learning\Learnings\CompositePattern\obj\Debug\CompositePattern.exe
+D:\Amrut\Learning\Learnings\CompositePattern\obj\Debug\CompositePattern.pdb

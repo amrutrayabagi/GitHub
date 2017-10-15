@@ -1,0 +1,4 @@
+﻿namespace Structural_BridgePattern
+{
+   
+}

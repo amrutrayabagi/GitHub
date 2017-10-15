@@ -1,0 +1,30 @@
+C:\Users\rayaba\AppData\Local\Temporary Projects\Learnings\bin\Debug\Learnings.exe.config
+C:\Users\rayaba\AppData\Local\Temporary Projects\Learnings\obj\Debug\Learnings.csprojResolveAssemblyReference.cache
+C:\Users\rayaba\AppData\Local\Temporary Projects\Learnings\bin\Debug\Learnings.exe
+C:\Users\rayaba\AppData\Local\Temporary Projects\Learnings\bin\Debug\Learnings.pdb
+C:\Users\rayaba\AppData\Local\Temporary Projects\Learnings\obj\Debug\Learnings.exe
+C:\Users\rayaba\AppData\Local\Temporary Projects\Learnings\obj\Debug\Learnings.pdb
+C:\CustomDrive\Personal\Learning\Learnings\bin\Debug\Learnings.exe.config
+C:\CustomDrive\Personal\Learning\Learnings\bin\Debug\Learnings.exe
+C:\CustomDrive\Personal\Learning\Learnings\bin\Debug\Learnings.pdb
+C:\CustomDrive\Personal\Learning\Learnings\obj\Debug\Learnings.csprojResolveAssemblyReference.cache
+C:\CustomDrive\Personal\Learning\Learnings\obj\Debug\Learnings.exe
+C:\CustomDrive\Personal\Learning\Learnings\obj\Debug\Learnings.pdb
+E:\Amrut\Timken\Learning\Learnings\bin\Debug\Learnings.exe.config
+E:\Amrut\Timken\Learning\Learnings\bin\Debug\Learnings.exe
+E:\Amrut\Timken\Learning\Learnings\bin\Debug\Learnings.pdb
+E:\Amrut\Timken\Learning\Learnings\obj\Debug\Learnings.csprojResolveAssemblyReference.cache
+E:\Amrut\Timken\Learning\Learnings\obj\Debug\Learnings.exe
+E:\Amrut\Timken\Learning\Learnings\obj\Debug\Learnings.pdb
+E:\Amrut\Learning\Learnings\bin\Debug\Learnings.exe.config
+E:\Amrut\Learning\Learnings\bin\Debug\Learnings.exe
+E:\Amrut\Learning\Learnings\bin\Debug\Learnings.pdb
+E:\Amrut\Learning\Learnings\obj\Debug\Learnings.csprojResolveAssemblyReference.cache
+E:\Amrut\Learning\Learnings\obj\Debug\Learnings.exe
+E:\Amrut\Learning\Learnings\obj\Debug\Learnings.pdb
+D:\Amrut\Learning\Learnings\bin\Debug\Learnings.exe.config
+D:\Amrut\Learning\Learnings\obj\Debug\Learnings.exe
+D:\Amrut\Learning\Learnings\obj\Debug\Learnings.pdb
+D:\Amrut\Learning\Learnings\bin\Debug\Learnings.exe
+D:\Amrut\Learning\Learnings\bin\Debug\Learnings.pdb
+D:\Amrut\Learning\Learnings\obj\Debug\Learnings.csprojResolveAssemblyReference.cache

@@ -1,0 +1,63 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<section class="main-container">
+
+    <div class="container">
+        <div class="row">
+
+            <!-- main start -->
+            <!-- ================ -->
+            <div class="main col-md-12">
+
+                <!-- page-title start -->
+                <!-- ================ -->
+                <h1 class="page-title text-center">Meadow Blue Leaves Wallpaper</h1>
+                <div class="separator with-icon"><i class="fa fa-shopping-bag bordered"></i></div>
+                <!-- page-title end -->
+
+                <div class="row">
+                    <div class="col-md-4 col-lg-5">
+                        <!-- pills start -->
+                        <!-- ================ -->
+                        <!-- Nav tabs -->
+                        <ul class="nav nav-pills" role="tablist">
+                            <li class="active"><a href="#pill-1" role="tab" data-toggle="tab" title="images"><i class="fa fa-camera pr-5"></i> Photo</a></li>
+                        </ul>
+                        <!-- Tab panes -->
+                        <div class="tab-content clear-style">
+                            <div class="tab-pane active" id="pill-1">
+                                <div class="owl-carousel content-slider-with-thumbs mb-20">
+                                    <div class="overlay-container overlay-visible">
+                                        <img src="~/images/Geometric/MeadowBlueLeavesWallpaper.jpg" alt="">
+                                        <a href="~/images/Geometric/MeadowBlueLeavesWallpaper.jpg" class="popup-img overlay-link" title="image title"><i class="icon-plus-1"></i></a>
+                                    </div>
+                                </div>
+                                <div class="content-slider-thumbs-container">
+                                    <div class="owl-carousel content-slider-thumbs">
+                                        <div class="owl-nav-thumb">
+                                            <img src="~/images/Geometric/MeadowBlueLeavesWallpaper.jpg" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- pills end -->
+                    </div>
+                    <div class="col-md-8 col-lg-7 pv-30">
+                        <h2>Description</h2>
+                        <p>Fashion an enchanted oasis in your home with this botanical blue leaves wallpaper. Entangled leaves in a lush accent for any space. Printed on a premium peel and stick material that is totally removable and will not damage walls, this magical decorating option saves you the time and hassle of ordinary wallpaper while maintaining both style and quality. Fashion your own garden meadow indoors with this enchanting blue leaves wallpaper. Beautiful leaves wrap your room in a fresh design that soothes and inspires.</p>
+                        <h4 class="space-top">Specifications</h4>
+                        <hr>
+                        @{Html.RenderPartial("_WallPaperSpecification");}
+                    </div>
+                </div>
+            </div>
+            <!-- main end -->
+
+        </div>
+    </div>
+</section>
+@{Html.RenderPartial("_BookAppointment");}
+@Html.Action("GeometricRelatedProducts", "Product", new { name = "MeadowBlueLeaves" })
+<!-- section end -->

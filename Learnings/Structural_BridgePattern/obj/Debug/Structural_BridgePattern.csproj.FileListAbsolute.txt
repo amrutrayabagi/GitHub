@@ -1,0 +1,6 @@
+D:\Amrut\Learning\Learnings\Structural_BridgePattern\obj\Debug\Structural_BridgePattern.csprojResolveAssemblyReference.cache
+D:\Amrut\Learning\Learnings\Structural_BridgePattern\bin\Debug\Structural_BridgePattern.exe.config
+D:\Amrut\Learning\Learnings\Structural_BridgePattern\bin\Debug\Structural_BridgePattern.exe
+D:\Amrut\Learning\Learnings\Structural_BridgePattern\bin\Debug\Structural_BridgePattern.pdb
+D:\Amrut\Learning\Learnings\Structural_BridgePattern\obj\Debug\Structural_BridgePattern.exe
+D:\Amrut\Learning\Learnings\Structural_BridgePattern\obj\Debug\Structural_BridgePattern.pdb
